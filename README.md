@@ -35,6 +35,7 @@ Enter your data into the widgets
 
 ### Step 3:
 Run all cells from Functions & Imports including Gemini & LinkedIn Companies Model sections, until the Reddit Model section. Don't run Reddit model!
+
 ![](images/step3.png)
 
 
