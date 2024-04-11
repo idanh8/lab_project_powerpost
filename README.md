@@ -75,6 +75,9 @@ Run Generate Image section
 ### Step 9:
 If you initially chose to wait 30 minutes for image generation, go make yourself some food, it'll take a while. Otherwise, receive a prompt to generate it yourself.
 
+![](images/post_image.png)
+
+
 ### All done! 🎉 We hope you enjoyed 😃 and that your next post reaches the 🌕 and 🌠
 
 ## 🧠 Model Training
