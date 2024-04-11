@@ -53,16 +53,18 @@ Upload the reddit dataset, paste the path here and run the cell:
 ![](images/reddit_path.png)
 
 ### Step 6:
-Run the Reddit Model section (you can choose 'run all below' over there). Then, run the 3 next cells.
+Run the Reddit Model section (you can choose 'run all below' over there).
+
 ![](images/reddit_step.png)
 
 ### Step 7:
-Now, the following cell and the best time to upload your post will display!
+Now, run the following cell and the best time to upload your post will display!
 
 ![](images/time_pred.png)
 
 ### Step 8:
 Run Generate Image section
+
 ![](images/image_step.png)
 
 ### Step 9:
