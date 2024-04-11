@@ -20,7 +20,7 @@ Utilizing natural language processing (NLP) techniques, the system generates pos
 The tool can also generate images or provide prompts for users to create images to accompany their posts, enhancing visual appeal and engagement.
 
 ### Scoring Mechanism:
- The system employs a scoring mechanism to evaluate the generated post content. The score reflects the potential effectiveness of the post in terms of engagement and reach. Users can refine their content based on the score provided by the system.
+ The system employs a scoring mechanism to evaluate the generated post content. The score reflects the potential effectiveness of the post in terms of engagement and reach. 
 
 
 ## 📝 Usage
