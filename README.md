@@ -31,7 +31,7 @@ Run the first 2 cells in the projcet.
 ### Step 2:
 Enter your data into the widgets
 
-![](images/widget.png)
+![](images/interface.png)
 
 ### Step 3:
  Run all cells from Functions & Imports including Gemini & LinkedIn Companies Model sections, until the Reddit Model section. Don't run Reddit model!
@@ -54,6 +54,7 @@ Upload the reddit dataset and paste the path here:
 Run the next cell, then run the Reddit Model section (you can choose 'run all below' over there). Then, run the 3 next cells.
 
 Now, the best time to upload your post will display!
+
 ![](images/time_pred.png)
 
 ### Step 7:
