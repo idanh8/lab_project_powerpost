@@ -22,11 +22,15 @@ The tool can also generate images or provide prompts for users to create images 
 ### Scoring Mechanism:
  The system employs a scoring mechanism to evaluate the generated post content. The score reflects the potential effectiveness of the post in terms of engagement and reach. 
 
+## If you want to see the code or results without having to run it, head over to the htmls 📂, where you can download ready-run html files for your 👀 pleasure. 
 
 ## 📝 Usage
-You can follow the instructions within the code, or from here.
+### Very Important: first, begin by downloading the reddit_all_scraped_dataset.csv and the Full Project Interface.ipynb
+## Upload the data to the runtime environment of the notebook (save the path, you'll need it later)
+## Now, you can follow the steps below, from here or within the code. Enjoy!
+
 ### Step 1:
-Run the first 2 cells in the projcet.
+Run the first 2 cells in the project.
 
 ### Step 2:
 Enter your data into the widgets
@@ -69,9 +73,9 @@ Run Generate Image section
 ![](images/image_step.png)
 
 ### Step 9:
-Choose to wait 30 minutes for image generation or receive a prompt to generate it yourself.
+If you initially chose to wait 30 minutes for image generation, go make yourself some food, it'll take a while. Otherwise, receive a prompt to generate it yourself.
 
-### All done! 🎉
+### All done! 🎉 We hope you enjoyed 😃 and that your next post reaches the 🌕 and 🌠
 
 ## 🧠 Model Training
 To predict the optimal time for posting, we utilized a separate model trained on the Reddit dataset. This decision was made due to the availability of valid timestamps in the Reddit dataset. We employed a 100-dimensional word2vec vector to embed the post titles and indexed the subreddit-based post category. The post score was also considered in building the model.
