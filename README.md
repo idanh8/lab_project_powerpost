@@ -34,7 +34,9 @@ Enter your data into the widgets
 ![](images/interface.png)
 
 ### Step 3:
- Run all cells from Functions & Imports including Gemini & LinkedIn Companies Model sections, until the Reddit Model section. Don't run Reddit model!
+Run all cells from Functions & Imports including Gemini & LinkedIn Companies Model sections, until the Reddit Model section. Don't run Reddit model!
+![](images/step3.png)
+
 
 ### Step 4:
 Run the following cell:
@@ -46,21 +48,24 @@ Now, your post has been generated!
 ![](images/post.jpg)
 
 ### Step 5:
-Upload the reddit dataset and paste the path here:
+Upload the reddit dataset, paste the path here and run the cell:
 
 ![](images/reddit_path.png)
 
 ### Step 6:
-Run the next cell, then run the Reddit Model section (you can choose 'run all below' over there). Then, run the 3 next cells.
+Run the Reddit Model section (you can choose 'run all below' over there). Then, run the 3 next cells.
+![](images/reddit_step.png)
 
-Now, the best time to upload your post will display!
+### Step 7:
+Now, the following cell and the best time to upload your post will display!
 
 ![](images/time_pred.png)
 
-### Step 7:
-Run Generate Image section
-
 ### Step 8:
+Run Generate Image section
+![](images/image_step.png)
+
+### Step 9:
 Choose to wait 30 minutes for image generation or receive a prompt to generate it yourself.
 
 ### All done! 🎉
