@@ -30,6 +30,7 @@ Run the first 2 cells in the projcet.
 
 ### Step 2:
 Enter your data into the widgets
+
 ![](images/widget.png)
 
 ### Step 3:
@@ -37,14 +38,16 @@ Enter your data into the widgets
 
 ### Step 4:
 Run the following cell:
+
 ![](images/response.png)
 
 Now, your post has been generated!
 
-![](images/post.png)
+![](images/post.jpg)
 
 ### Step 5:
 Upload the reddit dataset and paste the path here:
+
 ![](images/reddit_path.png)
 
 ### Step 6:
